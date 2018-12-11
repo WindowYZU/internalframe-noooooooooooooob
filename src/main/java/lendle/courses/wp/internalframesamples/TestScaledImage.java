@@ -41,7 +41,7 @@ public class TestScaledImage {
         button2.setBounds(50, 0, 100, 50);
         desktopPane.add(button2, JDesktopPane.DEFAULT_LAYER);
         ///////////////////////////////////////////////////////
-
+        
         frame.setVisible(true);
     }
     
